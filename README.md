@@ -16,7 +16,7 @@ This project demonstrates the fundamentals of sentiment analysis using Python an
 
 ### 🖼️ Sample Output:
 - **Sentiment Distribution**  
-  ![Sentiment Analysis Example](https://via.placeholder.com/500x250.png?text=Sentiment+Analysis+Example)  
+  ![Sentiment Analysis Example]([https://via.placeholder.com/500x250.png?text=Sentiment+Analysis+Example](https://chartexpo.com/Content/Images/charts/What-is-Sentiment-Analysis-Graph.jpg))  
   *(Visualize sentiment distribution using a pie chart or bar graph)*
 
 > This project is a great starting point for those wanting to explore how sentiment can be quantified and visualized.
